@@ -1,5 +1,5 @@
 # Sql_ERP
-Criação da estrutura de tabelas dentro do banco de dados para o projeto de MINIERP utilizando SQLSERVER
+Criação da estrutura de tabelas dentro do banco de dados para o projeto de MINIERP  do curso "Dominando Banco de dados, Conceitos, Linguagem SQL do Básico ao Avançado, Administração de Banco de Dados SQL Server" utilizando SQLSERVER
 
 ### Segue abaixo o diagrama da da arquitetura do banco de dados:
 
